@@ -1,0 +1,542 @@
+{
+	"market": {
+		"freq": "1d"
+	},
+	"indicators": {
+		"ma": [
+			5,
+			20,
+			60
+		],
+		"showVolume": true,
+		"showMACD": true,
+		"showRSI": false,
+		"showBB": false,
+		"showFundFlow": false
+	},
+	"backtest": {
+		"initialCapital": 100000,
+		"commission": 0.0003,
+		"slippage": 0.001
+	},
+	"watchlist": [
+		{
+			"code": "002463",
+			"name": "沪电股份",
+			"shares": 100,
+			"costPrice": 100
+		},
+		{
+			"code": "03690",
+			"name": "美团-W",
+			"positions": {
+				"平安": {
+					"shares": 700,
+					"costPrice": 105.9819
+				}
+			}
+		},
+		{
+			"code": "300418",
+			"name": "昆仑万维",
+			"positions": {
+				"平安": {
+					"shares": 300,
+					"costPrice": 48.4135
+				},
+				"华宝": {
+					"shares": 200,
+					"costPrice": 45.27
+				}
+			}
+		},
+		{
+			"code": "002242",
+			"name": "九阳股份",
+			"positions": {
+				"平安": {
+					"shares": 300,
+					"costPrice": 11.4724
+				}
+			}
+		},
+		{
+			"code": "600900",
+			"name": "长江电力",
+			"positions": {
+				"平安": {
+					"shares": 300,
+					"costPrice": 26.2644
+				}
+			}
+		},
+		{
+			"code": "002737",
+			"name": "葵花药业",
+			"positions": {
+				"广发": {
+					"shares": 300,
+					"costPrice": 15.327
+				},
+				"平安": {
+					"shares": 800,
+					"costPrice": 14.9527
+				}
+			}
+		},
+		{
+			"code": "600276",
+			"name": "恒瑞医药",
+			"positions": {
+				"平安": {
+					"shares": 400,
+					"costPrice": 58.411
+				},
+				"华宝": {
+					"shares": 200,
+					"costPrice": 55.846
+				}
+			}
+		},
+		{
+			"code": "601727",
+			"name": "上海电气"
+		},
+		{
+			"code": "000848",
+			"name": "承德露露",
+			"positions": {
+				"平安": {
+					"shares": 1200,
+					"costPrice": 8.5028
+				}
+			}
+		},
+		{
+			"code": "600905",
+			"name": "三峡能源",
+			"positions": {
+				"广发": {
+					"shares": 300,
+					"costPrice": 4.107
+				}
+			}
+		},
+		{
+			"code": "002475",
+			"name": "立讯精密"
+		},
+		{
+			"code": "300409",
+			"name": "道氏技术",
+			"positions": {
+				"平安": {
+					"shares": 300,
+					"costPrice": 25.1814
+				}
+			}
+		},
+		{
+			"code": "300911",
+			"name": "亿田智能"
+		},
+		{
+			"code": "000966",
+			"name": "长源电力"
+		},
+		{
+			"code": "000887",
+			"name": "中鼎股份",
+			"positions": {
+				"平安": {
+					"shares": 400,
+					"costPrice": 20.1977
+				}
+			}
+		},
+		{
+			"code": "002241",
+			"name": "歌尔股份",
+			"positions": {
+				"平安": {
+					"shares": 400,
+					"costPrice": 24.2214
+				},
+				"华宝": {
+					"shares": 100,
+					"costPrice": 24.49
+				}
+			}
+		},
+		{
+			"code": "000729",
+			"name": "燕京啤酒"
+		},
+		{
+			"code": "601985",
+			"name": "中国核电",
+			"positions": {
+				"广发": {
+					"shares": 200,
+					"costPrice": 8.552
+				},
+				"平安": {
+					"shares": 100,
+					"costPrice": 7.3032
+				}
+			}
+		},
+		{
+			"code": "600584",
+			"name": "长电科技",
+			"positions": {
+				"平安": {
+					"shares": 100,
+					"costPrice": 44.9004
+				},
+				"华宝": {
+					"shares": 100,
+					"costPrice": 46.811
+				}
+			}
+		},
+		{
+			"code": "688556",
+			"name": "高测股份"
+		},
+		{
+			"code": "601169",
+			"name": "北京银行",
+			"positions": {
+				"平安": {
+					"shares": 800,
+					"costPrice": 5.8051
+				}
+			}
+		},
+		{
+			"code": "601006",
+			"name": "大秦铁路",
+			"positions": {
+				"广发": {
+					"shares": 1400,
+					"costPrice": 5.475
+				},
+				"平安": {
+					"shares": 3500,
+					"costPrice": 5.4983
+				}
+			}
+		},
+		{
+			"code": "600919",
+			"name": "江苏银行"
+		},
+		{
+			"code": "601166",
+			"name": "兴业银行",
+			"positions": {
+				"广发": {
+					"shares": 400,
+					"costPrice": 19.463
+				},
+				"平安": {
+					"shares": 600,
+					"costPrice": 19.2677
+				}
+			}
+		},
+		{
+			"code": "600188",
+			"name": "兖矿能源"
+		},
+		{
+			"code": "000333",
+			"name": "美的集团"
+		},
+		{
+			"code": "300115",
+			"name": "长盈精密",
+			"positions": {
+				"平安": {
+					"shares": 100,
+					"costPrice": 37.4004
+				},
+				"华宝": {
+					"shares": 100,
+					"costPrice": 36.36
+				}
+			}
+		},
+		{
+			"code": "000338",
+			"name": "潍柴动力"
+		},
+		{
+			"code": "600036",
+			"name": "招商银行",
+			"positions": {
+				"平安": {
+					"shares": 200,
+					"costPrice": 39.4031
+				}
+			}
+		},
+		{
+			"code": "601088",
+			"name": "中国神华"
+		},
+		{
+			"code": "601899",
+			"name": "紫金矿业"
+		},
+		{
+			"code": "002422",
+			"name": "科伦药业"
+		},
+		{
+			"code": "000603",
+			"name": "盛达资源"
+		},
+		{
+			"code": "600744",
+			"name": "华银电力"
+		},
+		{
+			"code": "002759",
+			"name": "天际股份"
+		},
+		{
+			"code": "603212",
+			"name": "赛伍技术",
+			"positions": {
+				"平安": {
+					"shares": 600,
+					"costPrice": 15.6852
+				}
+			}
+		},
+		{
+			"code": "600351",
+			"name": "亚宝药业"
+		},
+		{
+			"code": "601827",
+			"name": "三峰环境"
+		},
+		{
+			"code": "000963",
+			"name": "华东医药"
+		},
+		{
+			"code": "300457",
+			"name": "赢合科技"
+		},
+		{
+			"code": "00006",
+			"name": "电能实业"
+		},
+		{
+			"code": "01810",
+			"name": "小米集团-W",
+			"positions": {
+				"平安": {
+					"shares": 600,
+					"costPrice": 37.6225
+				}
+			}
+		},
+		{
+			"code": "002249",
+			"name": "大洋电机",
+			"positions": {
+				"平安": {
+					"shares": 400,
+					"costPrice": 10.1351
+				}
+			}
+		},
+		{
+			"code": "002726",
+			"name": "龙大美食",
+			"positions": {
+				"平安": {
+					"shares": 300,
+					"costPrice": 17.1847
+				}
+			}
+		},
+		{
+			"code": "300655",
+			"name": "晶瑞电材",
+			"positions": {
+				"平安": {
+					"shares": 300,
+					"costPrice": 17.0661
+				},
+				"华宝": {
+					"shares": 100,
+					"costPrice": 15.719
+				}
+			}
+		},
+		{
+			"code": "600810",
+			"name": "神马股份"
+		},
+		{
+			"code": "300207",
+			"name": "欣旺达"
+		},
+		{
+			"code": "600021",
+			"name": "上海电力",
+			"positions": {
+				"广发": {
+					"shares": 700,
+					"costPrice": 18.828
+				},
+				"平安": {
+					"shares": 800,
+					"costPrice": 19.4654
+				},
+				"华宝": {
+					"shares": 500,
+					"costPrice": 18.93
+				}
+			}
+		},
+		{
+			"code": "513500",
+			"name": "标普500ETF博时",
+			"positions": {
+				"广发": {
+					"shares": 1800,
+					"costPrice": 2.448
+				},
+				"平安": {
+					"shares": 1200,
+					"costPrice": 2.1763
+				}
+			}
+		},
+		{
+			"code": "562500",
+			"name": "机器人ETF华夏",
+			"positions": {
+				"广发": {
+					"shares": 2000,
+					"costPrice": 1.057
+				}
+			}
+		},
+		{
+			"code": "159513",
+			"name": "纳斯达克100ETF大成",
+			"positions": {
+				"广发": {
+					"shares": 2500,
+					"costPrice": 1.611
+				},
+				"平安": {
+					"shares": 2400,
+					"costPrice": 1.5812
+				}
+			}
+		},
+		{
+			"code": "300245",
+			"name": "ST天玑",
+			"positions": {
+				"平安": {
+					"shares": 300,
+					"costPrice": 20.2701
+				}
+			}
+		},
+		{
+			"code": "518880",
+			"name": "黄金ETF华安",
+			"positions": {
+				"平安": {
+					"shares": 4700,
+					"costPrice": 9.7258
+				},
+				"华宝": {
+					"shares": 400,
+					"costPrice": 9.81
+				}
+			}
+		},
+		{
+			"code": "159570",
+			"name": "港股通创新药ETF汇添富",
+			"positions": {
+				"平安": {
+					"shares": 1000,
+					"costPrice": 1.686
+				}
+			}
+		},
+		{
+			"code": "002600",
+			"name": "领益智造",
+			"positions": {
+				"平安": {
+					"shares": 200,
+					"costPrice": 15.5252
+				}
+			}
+		},
+		{
+			"code": "159267",
+			"name": "航天ETF华安",
+			"positions": {
+				"平安": {
+					"shares": 2700,
+					"costPrice": 1.2813
+				}
+			}
+		},
+		{
+			"code": "000801",
+			"name": "四川九洲",
+			"positions": {
+				"华宝": {
+					"shares": 200,
+					"costPrice": 14.535
+				}
+			}
+		}
+	],
+	"report": {
+		"agent": "claude",
+		"outputDir": "/Users/fusong/gitnotes/report/QuanTool/reports",
+		"scheduleEnabled": false,
+		"scheduleTime": "18:00"
+	},
+	"dataSources": [
+		{
+			"id": "baostock",
+			"name": "BaoStock",
+			"enabled": true
+		},
+		{
+			"id": "akshare",
+			"name": "AKShare",
+			"enabled": true
+		},
+		{
+			"id": "eastmoney",
+			"name": "东方财富",
+			"enabled": true
+		}
+	],
+	"autoDetectSources": true,
+	"lastSourceDetect": {
+		"akshare": false,
+		"eastmoney": false,
+		"baostock": true
+	},
+	"backupDir": "/Users/fusong/gitnotes/report/QuanTool"
+}
