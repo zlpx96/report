@@ -41,12 +41,12 @@
 			"name": "昆仑万维",
 			"positions": {
 				"平安": {
-					"shares": 300,
-					"costPrice": 48.4135
+					"shares": 200,
+					"costPrice": 46.2337
 				},
 				"华宝": {
 					"shares": 200,
-					"costPrice": 45.27
+					"costPrice": 43.194
 				}
 			}
 		},
@@ -79,8 +79,8 @@
 					"costPrice": 15.327
 				},
 				"平安": {
-					"shares": 800,
-					"costPrice": 14.9527
+					"shares": 900,
+					"costPrice": 14.7979
 				}
 			}
 		},
@@ -89,12 +89,12 @@
 			"name": "恒瑞医药",
 			"positions": {
 				"平安": {
-					"shares": 400,
-					"costPrice": 58.411
+					"shares": 500,
+					"costPrice": 57.4389
 				},
 				"华宝": {
-					"shares": 200,
-					"costPrice": 55.846
+					"shares": 400,
+					"costPrice": 55.441
 				}
 			}
 		},
@@ -107,8 +107,8 @@
 			"name": "承德露露",
 			"positions": {
 				"平安": {
-					"shares": 1200,
-					"costPrice": 8.5028
+					"shares": 1000,
+					"costPrice": 8.4133
 				}
 			}
 		},
@@ -131,8 +131,8 @@
 			"name": "道氏技术",
 			"positions": {
 				"平安": {
-					"shares": 300,
-					"costPrice": 25.1814
+					"shares": 200,
+					"costPrice": 23.9792
 				}
 			}
 		},
@@ -159,12 +159,8 @@
 			"name": "歌尔股份",
 			"positions": {
 				"平安": {
-					"shares": 400,
-					"costPrice": 24.2214
-				},
-				"华宝": {
-					"shares": 100,
-					"costPrice": 24.49
+					"shares": 300,
+					"costPrice": 23.8163
 				}
 			}
 		},
@@ -188,17 +184,7 @@
 		},
 		{
 			"code": "600584",
-			"name": "长电科技",
-			"positions": {
-				"平安": {
-					"shares": 100,
-					"costPrice": 44.9004
-				},
-				"华宝": {
-					"shares": 100,
-					"costPrice": 46.811
-				}
-			}
+			"name": "长电科技"
 		},
 		{
 			"code": "688556",
@@ -209,8 +195,8 @@
 			"name": "北京银行",
 			"positions": {
 				"平安": {
-					"shares": 800,
-					"costPrice": 5.8051
+					"shares": 1000,
+					"costPrice": 5.7031
 				}
 			}
 		},
@@ -230,7 +216,13 @@
 		},
 		{
 			"code": "600919",
-			"name": "江苏银行"
+			"name": "江苏银行",
+			"positions": {
+				"广发": {
+					"shares": 100,
+					"costPrice": 11.33
+				}
+			}
 		},
 		{
 			"code": "601166",
@@ -277,8 +269,12 @@
 			"name": "招商银行",
 			"positions": {
 				"平安": {
-					"shares": 200,
-					"costPrice": 39.4031
+					"shares": 300,
+					"costPrice": 38.9255
+				},
+				"广发": {
+					"shares": 100,
+					"costPrice": 38.051
 				}
 			}
 		},
@@ -304,15 +300,21 @@
 		},
 		{
 			"code": "002759",
-			"name": "天际股份"
+			"name": "天际股份",
+			"positions": {
+				"华宝": {
+					"shares": 100,
+					"costPrice": 37.161
+				}
+			}
 		},
 		{
 			"code": "603212",
 			"name": "赛伍技术",
 			"positions": {
 				"平安": {
-					"shares": 600,
-					"costPrice": 15.6852
+					"shares": 500,
+					"costPrice": 15.8436
 				}
 			}
 		},
@@ -425,8 +427,8 @@
 			"name": "机器人ETF华夏",
 			"positions": {
 				"广发": {
-					"shares": 2000,
-					"costPrice": 1.057
+					"shares": 1000,
+					"costPrice": 0.987
 				}
 			}
 		},
@@ -435,36 +437,30 @@
 			"name": "纳斯达克100ETF大成",
 			"positions": {
 				"广发": {
-					"shares": 2500,
-					"costPrice": 1.611
+					"shares": 1500,
+					"costPrice": 1.531
 				},
 				"平安": {
-					"shares": 2400,
-					"costPrice": 1.5812
+					"shares": 1400,
+					"costPrice": 1.4749
 				}
 			}
 		},
 		{
 			"code": "300245",
-			"name": "ST天玑",
-			"positions": {
-				"平安": {
-					"shares": 300,
-					"costPrice": 20.2701
-				}
-			}
+			"name": "ST天玑"
 		},
 		{
 			"code": "518880",
 			"name": "黄金ETF华安",
 			"positions": {
 				"平安": {
-					"shares": 4700,
-					"costPrice": 9.7258
+					"shares": 4900,
+					"costPrice": 9.729
 				},
 				"华宝": {
-					"shares": 400,
-					"costPrice": 9.81
+					"shares": 300,
+					"costPrice": 9.79
 				}
 			}
 		},
@@ -473,8 +469,8 @@
 			"name": "港股通创新药ETF汇添富",
 			"positions": {
 				"平安": {
-					"shares": 1000,
-					"costPrice": 1.686
+					"shares": 2000,
+					"costPrice": 1.6245
 				}
 			}
 		},
@@ -507,15 +503,31 @@
 					"costPrice": 14.535
 				}
 			}
+		},
+		{
+			"code": "562550",
+			"name": "绿电ETF华夏",
+			"positions": {
+				"广发": {
+					"shares": 1000,
+					"costPrice": 1.263
+				}
+			}
 		}
 	],
 	"report": {
 		"agent": "claude",
 		"outputDir": "/Users/fusong/gitnotes/report/QuanTool/reports",
 		"scheduleEnabled": false,
-		"scheduleTime": "18:00"
+		"scheduleTime": "18:00",
+		"agentTimeout": 120
 	},
 	"dataSources": [
+		{
+			"id": "eastmoney",
+			"name": "东方财富",
+			"enabled": true
+		},
 		{
 			"id": "baostock",
 			"name": "BaoStock",
@@ -525,17 +537,12 @@
 			"id": "akshare",
 			"name": "AKShare",
 			"enabled": true
-		},
-		{
-			"id": "eastmoney",
-			"name": "东方财富",
-			"enabled": true
 		}
 	],
 	"autoDetectSources": true,
 	"lastSourceDetect": {
-		"akshare": false,
-		"eastmoney": false,
+		"akshare": true,
+		"eastmoney": true,
 		"baostock": true
 	},
 	"backupDir": "/Users/fusong/gitnotes/report/QuanTool"
