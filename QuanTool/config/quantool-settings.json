@@ -31,8 +31,8 @@
 			"name": "美团-W",
 			"positions": {
 				"平安": {
-					"shares": 700,
-					"costPrice": 105.9819
+					"shares": 800,
+					"costPrice": 103.57
 				}
 			}
 		},
@@ -41,12 +41,12 @@
 			"name": "昆仑万维",
 			"positions": {
 				"平安": {
-					"shares": 200,
-					"costPrice": 46.2337
+					"shares": 400,
+					"costPrice": 47.5671
 				},
 				"华宝": {
-					"shares": 200,
-					"costPrice": 43.194
+					"shares": 400,
+					"costPrice": 45.815
 				}
 			}
 		},
@@ -79,8 +79,8 @@
 					"costPrice": 15.327
 				},
 				"平安": {
-					"shares": 900,
-					"costPrice": 14.7979
+					"shares": 700,
+					"costPrice": 13.61
 				}
 			}
 		},
@@ -89,12 +89,12 @@
 			"name": "恒瑞医药",
 			"positions": {
 				"平安": {
-					"shares": 500,
-					"costPrice": 57.4389
+					"shares": 700,
+					"costPrice": 56.3765
 				},
 				"华宝": {
-					"shares": 400,
-					"costPrice": 55.441
+					"shares": 600,
+					"costPrice": 54.244
 				}
 			}
 		},
@@ -107,8 +107,8 @@
 			"name": "承德露露",
 			"positions": {
 				"平安": {
-					"shares": 1000,
-					"costPrice": 8.4133
+					"shares": 600,
+					"costPrice": 8.0802
 				}
 			}
 		},
@@ -117,8 +117,12 @@
 			"name": "三峡能源",
 			"positions": {
 				"广发": {
+					"shares": 600,
+					"costPrice": 4.122
+				},
+				"平安": {
 					"shares": 300,
-					"costPrice": 4.107
+					"costPrice": 4.122
 				}
 			}
 		},
@@ -131,8 +135,12 @@
 			"name": "道氏技术",
 			"positions": {
 				"平安": {
-					"shares": 200,
-					"costPrice": 23.9792
+					"shares": 400,
+					"costPrice": 24.9147
+				},
+				"华宝": {
+					"shares": 100,
+					"costPrice": 25.161
 				}
 			}
 		},
@@ -160,25 +168,35 @@
 			"positions": {
 				"平安": {
 					"shares": 300,
-					"costPrice": 23.8163
+					"costPrice": 23.6475
+				},
+				"华宝": {
+					"shares": 100,
+					"costPrice": 24.524
 				}
 			}
 		},
 		{
 			"code": "000729",
-			"name": "燕京啤酒"
+			"name": "燕京啤酒",
+			"positions": {
+				"华宝": {
+					"shares": 100,
+					"costPrice": 12.631
+				}
+			}
 		},
 		{
 			"code": "601985",
 			"name": "中国核电",
 			"positions": {
 				"广发": {
-					"shares": 200,
-					"costPrice": 8.552
-				},
-				"平安": {
 					"shares": 100,
-					"costPrice": 7.3032
+					"costPrice": 7.958
+				},
+				"华宝": {
+					"shares": 100,
+					"costPrice": 9.031
 				}
 			}
 		},
@@ -253,10 +271,6 @@
 				"平安": {
 					"shares": 100,
 					"costPrice": 37.4004
-				},
-				"华宝": {
-					"shares": 100,
-					"costPrice": 36.36
 				}
 			}
 		},
@@ -273,8 +287,8 @@
 					"costPrice": 38.9255
 				},
 				"广发": {
-					"shares": 100,
-					"costPrice": 38.051
+					"shares": 200,
+					"costPrice": 37.791
 				}
 			}
 		},
@@ -359,26 +373,12 @@
 			}
 		},
 		{
-			"code": "002726",
-			"name": "龙大美食",
-			"positions": {
-				"平安": {
-					"shares": 300,
-					"costPrice": 17.1847
-				}
-			}
-		},
-		{
 			"code": "300655",
 			"name": "晶瑞电材",
 			"positions": {
 				"平安": {
-					"shares": 300,
-					"costPrice": 17.0661
-				},
-				"华宝": {
-					"shares": 100,
-					"costPrice": 15.719
+					"shares": 200,
+					"costPrice": 16.9537
 				}
 			}
 		},
@@ -395,12 +395,12 @@
 			"name": "上海电力",
 			"positions": {
 				"广发": {
-					"shares": 700,
-					"costPrice": 18.828
+					"shares": 600,
+					"costPrice": 18.901
 				},
 				"平安": {
-					"shares": 800,
-					"costPrice": 19.4654
+					"shares": 700,
+					"costPrice": 18.6189
 				},
 				"华宝": {
 					"shares": 500,
@@ -413,12 +413,12 @@
 			"name": "标普500ETF博时",
 			"positions": {
 				"广发": {
-					"shares": 1800,
-					"costPrice": 2.448
+					"shares": 800,
+					"costPrice": 2.384
 				},
 				"平安": {
-					"shares": 1200,
-					"costPrice": 2.1763
+					"shares": 400,
+					"costPrice": 1.5413
 				}
 			}
 		},
@@ -427,8 +427,8 @@
 			"name": "机器人ETF华夏",
 			"positions": {
 				"广发": {
-					"shares": 1000,
-					"costPrice": 0.987
+					"shares": 100,
+					"costPrice": -0.34
 				}
 			}
 		},
@@ -455,12 +455,12 @@
 			"name": "黄金ETF华安",
 			"positions": {
 				"平安": {
-					"shares": 4900,
-					"costPrice": 9.729
+					"shares": 5100,
+					"costPrice": 9.7264
 				},
 				"华宝": {
-					"shares": 300,
-					"costPrice": 9.79
+					"shares": 500,
+					"costPrice": 9.699
 				}
 			}
 		},
@@ -476,13 +476,7 @@
 		},
 		{
 			"code": "002600",
-			"name": "领益智造",
-			"positions": {
-				"平安": {
-					"shares": 200,
-					"costPrice": 15.5252
-				}
-			}
+			"name": "领益智造"
 		},
 		{
 			"code": "159267",
@@ -509,10 +503,14 @@
 			"name": "绿电ETF华夏",
 			"positions": {
 				"广发": {
-					"shares": 1000,
-					"costPrice": 1.263
+					"shares": 1800,
+					"costPrice": 1.27
 				}
 			}
+		},
+		{
+			"code": "002726",
+			"name": "ST龙大"
 		}
 	],
 	"report": {
