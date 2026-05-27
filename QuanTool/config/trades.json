@@ -60,6 +60,42 @@
     "price": null
   },
   {
+    "id": 100,
+    "symbol": "000887",
+    "account": "平安",
+    "direction": "sell",
+    "trade_date": "2026-05-22",
+    "shares": 200,
+    "cost_price": 20.018,
+    "note": null,
+    "created_at": "2026-05-22T14:53:58.593Z",
+    "price": 20.42
+  },
+  {
+    "id": 109,
+    "symbol": "000887",
+    "account": "平安",
+    "direction": "sell",
+    "trade_date": "2026-05-26",
+    "shares": 200,
+    "cost_price": 0,
+    "note": null,
+    "created_at": "2026-05-26T15:39:29.868Z",
+    "price": 21
+  },
+  {
+    "id": 113,
+    "symbol": "000966",
+    "account": "华宝",
+    "direction": "buy",
+    "trade_date": "2026-05-26",
+    "shares": 200,
+    "cost_price": 5.146,
+    "note": null,
+    "created_at": "2026-05-26T15:45:20.452Z",
+    "price": 5.14
+  },
+  {
     "id": 89,
     "symbol": "002241",
     "account": "华宝",
@@ -96,6 +132,18 @@
     "price": 25.25
   },
   {
+    "id": 101,
+    "symbol": "002241",
+    "account": "华宝",
+    "direction": "sell",
+    "trade_date": "2026-05-25",
+    "shares": 100,
+    "cost_price": 0,
+    "note": null,
+    "created_at": "2026-05-25T09:27:36.079Z",
+    "price": 25.49
+  },
+  {
     "id": 14,
     "symbol": "002241",
     "account": "平安",
@@ -130,6 +178,18 @@
     "note": null,
     "created_at": "2026-05-14T08:02:28.804Z",
     "price": null
+  },
+  {
+    "id": 119,
+    "symbol": "002241",
+    "account": "平安",
+    "direction": "sell",
+    "trade_date": "2026-05-27",
+    "shares": 100,
+    "cost_price": 21.4534,
+    "note": null,
+    "created_at": "2026-05-27T15:26:23.306Z",
+    "price": 28.1
   },
   {
     "id": 4,
@@ -312,6 +372,18 @@
     "price": null
   },
   {
+    "id": 111,
+    "symbol": "159267",
+    "account": "平安",
+    "direction": "buy",
+    "trade_date": "2026-05-26",
+    "shares": 1000,
+    "cost_price": 1.2131,
+    "note": null,
+    "created_at": "2026-05-26T15:42:24.742Z",
+    "price": 1.024
+  },
+  {
     "id": 40,
     "symbol": "159513",
     "account": "平安",
@@ -334,6 +406,18 @@
     "note": "初始导入",
     "created_at": "2026-05-12T06:11:44.448Z",
     "price": null
+  },
+  {
+    "id": 103,
+    "symbol": "159513",
+    "account": "广发",
+    "direction": "sell",
+    "trade_date": "2026-05-25",
+    "shares": 1300,
+    "cost_price": -0.131,
+    "note": null,
+    "created_at": "2026-05-25T12:16:59.437Z",
+    "price": 1.79
   },
   {
     "id": 43,
@@ -468,6 +552,18 @@
     "price": 47.05
   },
   {
+    "id": 121,
+    "symbol": "300418",
+    "account": "华宝",
+    "direction": "buy",
+    "trade_date": "2026-05-27",
+    "shares": 100,
+    "cost_price": 45.77,
+    "note": null,
+    "created_at": "2026-05-27T15:32:24.919Z",
+    "price": 45.58
+  },
+  {
     "id": 2,
     "symbol": "300418",
     "account": "平安",
@@ -502,6 +598,54 @@
     "note": null,
     "created_at": "2026-05-20T06:44:40.999Z",
     "price": 47.7
+  },
+  {
+    "id": 110,
+    "symbol": "300418",
+    "account": "平安",
+    "direction": "buy",
+    "trade_date": "2026-05-26",
+    "shares": 100,
+    "cost_price": 47.2616,
+    "note": null,
+    "created_at": "2026-05-26T15:41:20.554Z",
+    "price": 46.6
+  },
+  {
+    "id": 117,
+    "symbol": "300418",
+    "account": "平安",
+    "direction": "sell",
+    "trade_date": "2026-05-27",
+    "shares": 200,
+    "cost_price": 46.4899,
+    "note": null,
+    "created_at": "2026-05-27T15:23:22.417Z",
+    "price": 48.5
+  },
+  {
+    "id": 118,
+    "symbol": "300418",
+    "account": "平安",
+    "direction": "buy",
+    "trade_date": "2026-05-27",
+    "shares": 100,
+    "cost_price": 46.4899,
+    "note": null,
+    "created_at": "2026-05-27T15:24:53.494Z",
+    "price": 45.73
+  },
+  {
+    "id": 102,
+    "symbol": "300457",
+    "account": "华宝",
+    "direction": "buy",
+    "trade_date": "2026-05-25",
+    "shares": 100,
+    "cost_price": 28.361,
+    "note": null,
+    "created_at": "2026-05-25T12:09:19.258Z",
+    "price": 28.35
   },
   {
     "id": 32,
@@ -660,6 +804,18 @@
     "price": null
   },
   {
+    "id": 98,
+    "symbol": "518880",
+    "account": "平安",
+    "direction": "buy",
+    "trade_date": "2026-05-22",
+    "shares": 200,
+    "cost_price": 9.7169,
+    "note": null,
+    "created_at": "2026-05-22T14:51:22.430Z",
+    "price": 9.45
+  },
+  {
     "id": 38,
     "symbol": "562500",
     "account": "广发",
@@ -678,10 +834,22 @@
     "direction": "sell",
     "trade_date": "2026-05-17",
     "shares": 900,
-    "cost_price": -0.34,
+    "cost_price": 0,
     "note": null,
     "created_at": "2026-05-17T15:15:49.282Z",
-    "price": null
+    "price": 1.14
+  },
+  {
+    "id": 105,
+    "symbol": "562500",
+    "account": "广发",
+    "direction": "sell",
+    "trade_date": "2026-05-25",
+    "shares": 100,
+    "cost_price": 0,
+    "note": null,
+    "created_at": "2026-05-25T12:21:10.145Z",
+    "price": 1.21
   },
   {
     "id": 47,
@@ -720,6 +888,30 @@
     "price": null
   },
   {
+    "id": 106,
+    "symbol": "600021",
+    "account": "华宝",
+    "direction": "sell",
+    "trade_date": "2026-05-26",
+    "shares": 200,
+    "cost_price": 17.968,
+    "note": null,
+    "created_at": "2026-05-26T15:35:09.023Z",
+    "price": 20.39
+  },
+  {
+    "id": 122,
+    "symbol": "600021",
+    "account": "华宝",
+    "direction": "sell",
+    "trade_date": "2026-05-27",
+    "shares": 100,
+    "cost_price": 16.661,
+    "note": null,
+    "created_at": "2026-05-27T15:33:39.907Z",
+    "price": 20.6
+  },
+  {
     "id": 34,
     "symbol": "600021",
     "account": "平安",
@@ -741,7 +933,19 @@
     "cost_price": 18.6189,
     "note": null,
     "created_at": "2026-05-19T02:25:46.879Z",
-    "price": null
+    "price": 18.45
+  },
+  {
+    "id": 108,
+    "symbol": "600021",
+    "account": "平安",
+    "direction": "sell",
+    "trade_date": "2026-05-26",
+    "shares": 100,
+    "cost_price": 19.5005,
+    "note": null,
+    "created_at": "2026-05-26T15:38:45.343Z",
+    "price": 20.39
   },
   {
     "id": 33,
@@ -766,6 +970,30 @@
     "note": null,
     "created_at": "2026-05-19T02:24:15.342Z",
     "price": null
+  },
+  {
+    "id": 107,
+    "symbol": "600021",
+    "account": "广发",
+    "direction": "sell",
+    "trade_date": "2026-05-26",
+    "shares": 200,
+    "cost_price": 18.174,
+    "note": null,
+    "created_at": "2026-05-26T15:36:29.068Z",
+    "price": 20.39
+  },
+  {
+    "id": 116,
+    "symbol": "600021",
+    "account": "广发",
+    "direction": "sell",
+    "trade_date": "2026-05-27",
+    "shares": 200,
+    "cost_price": 0,
+    "note": null,
+    "created_at": "2026-05-27T05:58:29.706Z",
+    "price": 21.25
   },
   {
     "id": 25,
@@ -852,6 +1080,18 @@
     "price": 51.48
   },
   {
+    "id": 114,
+    "symbol": "600276",
+    "account": "华宝",
+    "direction": "dividend",
+    "trade_date": "2026-05-26",
+    "shares": 0,
+    "cost_price": 54.044,
+    "note": "600股，120元分红",
+    "created_at": "2026-05-27T05:55:32.419Z",
+    "price": null
+  },
+  {
     "id": 8,
     "symbol": "600276",
     "account": "平安",
@@ -886,6 +1126,30 @@
     "note": null,
     "created_at": "2026-05-19T07:03:40.946Z",
     "price": 51.59
+  },
+  {
+    "id": 115,
+    "symbol": "600276",
+    "account": "平安",
+    "direction": "dividend",
+    "trade_date": "2026-05-26",
+    "shares": 0,
+    "cost_price": 56.1765,
+    "note": "700股，140元分红",
+    "created_at": "2026-05-27T05:56:56.548Z",
+    "price": null
+  },
+  {
+    "id": 120,
+    "symbol": "600351",
+    "account": "华宝",
+    "direction": "buy",
+    "trade_date": "2026-05-27",
+    "shares": 100,
+    "cost_price": 6.21,
+    "note": null,
+    "created_at": "2026-05-27T15:30:05.642Z",
+    "price": 6.2
   },
   {
     "id": 5,
@@ -960,6 +1224,18 @@
     "price": null
   },
   {
+    "id": 99,
+    "symbol": "601006",
+    "account": "平安",
+    "direction": "buy",
+    "trade_date": "2026-05-22",
+    "shares": 300,
+    "cost_price": 5.4919,
+    "note": null,
+    "created_at": "2026-05-22T14:52:30.248Z",
+    "price": 5.4
+  },
+  {
     "id": 18,
     "symbol": "601006",
     "account": "广发",
@@ -1006,6 +1282,18 @@
     "note": "初始导入",
     "created_at": "2026-05-12T06:11:44.428Z",
     "price": null
+  },
+  {
+    "id": 112,
+    "symbol": "601169",
+    "account": "平安",
+    "direction": "buy",
+    "trade_date": "2026-05-26",
+    "shares": 200,
+    "cost_price": 5.6051,
+    "note": null,
+    "created_at": "2026-05-26T15:43:24.343Z",
+    "price": 5.09
   },
   {
     "id": 87,
@@ -1066,6 +1354,18 @@
     "note": null,
     "created_at": "2026-05-19T07:07:48.874Z",
     "price": 9.2
+  },
+  {
+    "id": 104,
+    "symbol": "601985",
+    "account": "广发",
+    "direction": "buy",
+    "trade_date": "2026-05-25",
+    "shares": 100,
+    "cost_price": 8.374,
+    "note": null,
+    "created_at": "2026-05-25T12:19:10.682Z",
+    "price": 8.74
   },
   {
     "id": 27,

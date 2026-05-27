@@ -42,11 +42,11 @@
 			"positions": {
 				"平安": {
 					"shares": 400,
-					"costPrice": 47.5671
+					"costPrice": 46.4899
 				},
 				"华宝": {
-					"shares": 400,
-					"costPrice": 45.815
+					"shares": 500,
+					"costPrice": 45.77
 				}
 			}
 		},
@@ -90,11 +90,11 @@
 			"positions": {
 				"平安": {
 					"shares": 700,
-					"costPrice": 56.3765
+					"costPrice": 56.1765
 				},
 				"华宝": {
 					"shares": 600,
-					"costPrice": 54.244
+					"costPrice": 54.044
 				}
 			}
 		},
@@ -150,29 +150,25 @@
 		},
 		{
 			"code": "000966",
-			"name": "长源电力"
+			"name": "长源电力",
+			"positions": {
+				"华宝": {
+					"shares": 200,
+					"costPrice": 5.146
+				}
+			}
 		},
 		{
 			"code": "000887",
-			"name": "中鼎股份",
-			"positions": {
-				"平安": {
-					"shares": 400,
-					"costPrice": 20.1977
-				}
-			}
+			"name": "中鼎股份"
 		},
 		{
 			"code": "002241",
 			"name": "歌尔股份",
 			"positions": {
 				"平安": {
-					"shares": 300,
-					"costPrice": 23.6475
-				},
-				"华宝": {
-					"shares": 100,
-					"costPrice": 24.524
+					"shares": 200,
+					"costPrice": 21.4534
 				}
 			}
 		},
@@ -191,8 +187,8 @@
 			"name": "中国核电",
 			"positions": {
 				"广发": {
-					"shares": 100,
-					"costPrice": 7.958
+					"shares": 200,
+					"costPrice": 8.374
 				},
 				"华宝": {
 					"shares": 100,
@@ -213,8 +209,8 @@
 			"name": "北京银行",
 			"positions": {
 				"平安": {
-					"shares": 1000,
-					"costPrice": 5.7031
+					"shares": 1200,
+					"costPrice": 5.6051
 				}
 			}
 		},
@@ -227,8 +223,8 @@
 					"costPrice": 5.475
 				},
 				"平安": {
-					"shares": 3500,
-					"costPrice": 5.4983
+					"shares": 3800,
+					"costPrice": 5.4919
 				}
 			}
 		},
@@ -334,7 +330,13 @@
 		},
 		{
 			"code": "600351",
-			"name": "亚宝药业"
+			"name": "亚宝药业",
+			"positions": {
+				"华宝": {
+					"shares": 100,
+					"costPrice": 6.21
+				}
+			}
 		},
 		{
 			"code": "601827",
@@ -346,7 +348,13 @@
 		},
 		{
 			"code": "300457",
-			"name": "赢合科技"
+			"name": "赢合科技",
+			"positions": {
+				"华宝": {
+					"shares": 100,
+					"costPrice": 28.361
+				}
+			}
 		},
 		{
 			"code": "00006",
@@ -395,16 +403,16 @@
 			"name": "上海电力",
 			"positions": {
 				"广发": {
-					"shares": 600,
-					"costPrice": 18.901
+					"shares": 200,
+					"costPrice": 0
 				},
 				"平安": {
-					"shares": 700,
-					"costPrice": 18.6189
+					"shares": 600,
+					"costPrice": 19.5005
 				},
 				"华宝": {
-					"shares": 500,
-					"costPrice": 18.93
+					"shares": 200,
+					"costPrice": 16.661
 				}
 			}
 		},
@@ -424,21 +432,15 @@
 		},
 		{
 			"code": "562500",
-			"name": "机器人ETF华夏",
-			"positions": {
-				"广发": {
-					"shares": 100,
-					"costPrice": -0.34
-				}
-			}
+			"name": "机器人ETF华夏"
 		},
 		{
 			"code": "159513",
 			"name": "纳斯达克100ETF大成",
 			"positions": {
 				"广发": {
-					"shares": 1500,
-					"costPrice": 1.531
+					"shares": 200,
+					"costPrice": -0.131
 				},
 				"平安": {
 					"shares": 1400,
@@ -455,8 +457,8 @@
 			"name": "黄金ETF华安",
 			"positions": {
 				"平安": {
-					"shares": 5100,
-					"costPrice": 9.7264
+					"shares": 5300,
+					"costPrice": 9.7169
 				},
 				"华宝": {
 					"shares": 500,
@@ -483,8 +485,8 @@
 			"name": "航天ETF华安",
 			"positions": {
 				"平安": {
-					"shares": 2700,
-					"costPrice": 1.2813
+					"shares": 3700,
+					"costPrice": 1.2131
 				}
 			}
 		},
@@ -511,6 +513,10 @@
 		{
 			"code": "002726",
 			"name": "ST龙大"
+		},
+		{
+			"code": "000938",
+			"name": "紫光股份"
 		}
 	],
 	"report": {
