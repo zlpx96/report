@@ -89,8 +89,8 @@
 			"name": "恒瑞医药",
 			"positions": {
 				"平安": {
-					"shares": 700,
-					"costPrice": 56.1765
+					"shares": 800,
+					"costPrice": 55.1708
 				},
 				"华宝": {
 					"shares": 600,
@@ -139,8 +139,8 @@
 					"costPrice": 24.9147
 				},
 				"华宝": {
-					"shares": 100,
-					"costPrice": 25.161
+					"shares": 200,
+					"costPrice": 24.296
 				}
 			}
 		},
@@ -167,8 +167,8 @@
 			"name": "歌尔股份",
 			"positions": {
 				"平安": {
-					"shares": 200,
-					"costPrice": 21.4534
+					"shares": 100,
+					"costPrice": 14.2214
 				}
 			}
 		},
@@ -219,12 +219,12 @@
 			"name": "大秦铁路",
 			"positions": {
 				"广发": {
-					"shares": 1400,
-					"costPrice": 5.475
+					"shares": 1600,
+					"costPrice": 5.438
 				},
 				"平安": {
-					"shares": 3800,
-					"costPrice": 5.4919
+					"shares": 4100,
+					"costPrice": 5.4666
 				}
 			}
 		},
@@ -402,13 +402,9 @@
 			"code": "600021",
 			"name": "上海电力",
 			"positions": {
-				"广发": {
-					"shares": 200,
-					"costPrice": 0
-				},
 				"平安": {
-					"shares": 600,
-					"costPrice": 19.5005
+					"shares": 300,
+					"costPrice": 18.3282
 				},
 				"华宝": {
 					"shares": 200,
@@ -457,12 +453,12 @@
 			"name": "黄金ETF华安",
 			"positions": {
 				"平安": {
-					"shares": 5300,
-					"costPrice": 9.7169
+					"shares": 5500,
+					"costPrice": 9.6965
 				},
 				"华宝": {
-					"shares": 500,
-					"costPrice": 9.699
+					"shares": 600,
+					"costPrice": 9.605
 				}
 			}
 		},
@@ -471,8 +467,8 @@
 			"name": "港股通创新药ETF汇添富",
 			"positions": {
 				"平安": {
-					"shares": 2000,
-					"costPrice": 1.6245
+					"shares": 3000,
+					"costPrice": 1.5293
 				}
 			}
 		},
